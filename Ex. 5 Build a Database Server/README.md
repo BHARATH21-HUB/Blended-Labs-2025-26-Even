@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: BHARATH B
+* **Register Number**: 212224060041
+* **Date of Submission**: 17-03-2026
 
 ---
 
@@ -84,11 +84,10 @@ Test the database server by connecting to it locally or remotely and performing 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Create a Security Group for the RDS DB instance
+2. Create a DB Subnet Group
+3. Create an Amazon RDS DB instance
+4. Interact with your database
 
 ---
 
@@ -96,19 +95,20 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot 2026-03-09 101928" src="https://github.com/user-attachments/assets/43a74809-2440-4eac-897c-0238789d1399" />
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot 2026-03-09 102252" src="https://github.com/user-attachments/assets/c42b2b08-d1a5-4ed2-910a-503623527223" />
+<img width="1920" height="1200" alt="Screenshot 2026-03-09 104454" src="https://github.com/user-attachments/assets/1659b99c-610d-4695-8d39-729253e57741" />
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot 2026-03-09 110951" src="https://github.com/user-attachments/assets/388c7518-dc1b-4bea-bc6d-36fdee1c18e4" />
 
 ---
 
